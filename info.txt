@@ -1,0 +1,11 @@
+yellow color code:  #FFB830;
+radius for card and image: 16px;
+radius for button: 3px;
+card border color: lightgray;
+
+
+font family used: poppins -> google font
+
+image
+    height is  270px
+    width is 180px
